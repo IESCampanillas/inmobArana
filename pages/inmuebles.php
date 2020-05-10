@@ -1,6 +1,6 @@
 <header class="py-5 bg-image-full"
   style="background-image: url('https://www.elmueble.com/medio/2018/06/26/salon-con-pavimento-de-microcemento-y-chimenea-de-ladrillos_271825_69bfaafe.jpg');">
-  <img class="img-fluid d-block mx-auto" src="logo.png" alt="">
+  <img class="img-fluid d-block mx-auto" src="./assests/img/logo.png" alt="logo">
 </header>
 
 
